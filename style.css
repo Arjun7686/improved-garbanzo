@@ -1,0 +1,154 @@
+body{
+    
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-part {
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 50px;
+   
+    
+}
+
+.header-part img {
+    width: 80%;
+}
+.header-bg {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 550px;
+}
+h1 {
+    font: 50px;
+    color: #566573 ;
+}
+h2 {
+    font: 50px;
+    color: deeppink;
+    margin-bottom: 40px;
+
+}
+p {
+    font-size: 13px;
+    color:#99A3A4 ;
+    text-align: justify;
+    font-weight: 400;
+    margin-bottom: 50px
+}
+.hire-me {
+    margin-top: 50px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: deeppink;
+    color: aliceblue;
+    border-radius: 5px;
+}
+                             
+                    /* end the header part */
+
+.biography {
+    padding-top: 50px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.biography-laft {
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.biography-right {
+    width: 43%;
+    float: left;
+    margin-left: 10%;
+}
+.biography-laft img {
+    width: 100%;
+}
+
+  
+                               /* end the biography part */
+
+.latest-work {
+    background-image: url("images/latest-work-bg.png");
+    height: 500px;
+    
+}
+.latest-work h1 {
+    font: 50px;
+    color: #566573 ;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.work {
+    width: 27%;
+    float: left;
+     margin-left: 5%;
+}
+.work img {
+   
+    width: 100%;
+}
+                                  /* end the work part  */
+
+.review h1 {
+    font: 50px;
+    color: #566573 ;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.review h3 {
+    text-align: center;
+    font:18px;
+    color: #566573 ;
+ 
+}
+.review h4 {
+    text-align: center;
+    font:10px;
+    color: grey;
+ 
+}
+.review-message {
+    text-align: center;
+    font-size: 13px;
+    color:#99A3A4 ;
+   
+}
+.send-meassage {
+    background-color: deeppink;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.send-meassage p {
+    text-align: center;
+    color: azure;
+}
+.contact-mail a {
+    text-decoration: none;
+    text-align: center;
+    color: azure;
+}
+.review {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-color: aliceblue;
+}
+                                      /* end the review part */
+
+.copy-right {
+    text-align: center;
+    padding-top: 20px;
+}
